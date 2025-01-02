@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## What I'm Working On
+- [Ray tracing engine](https://github.com/1dagord/raytracer)
+
 ## Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
