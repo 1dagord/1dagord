@@ -36,6 +36,7 @@
 
 ## Frameworks & Libraries
 ![React](https://skillicons.dev/icons?i=react)
+![Vue](https://skillicons.dev/icons?i=vuejs)
 ![Selenium](https://skillicons.dev/icons?i=selenium)
 ![Node](https://skillicons.dev/icons?i=nodejs)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
