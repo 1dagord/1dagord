@@ -19,7 +19,7 @@
 </div>
 
 <h3 align="center">Building, Learning, Ideating</h3>
-<p align="center">I'm a electrical & computer engineer learning about using computers as tools for spontaneous creation.</p>
+<p align="center">I'm an electrical & computer engineer learning about using computers as tools for spontaneous creation.</p>
 <p align="center">Currently focusing on rendering, machine learning, and music.</p>
 
 <hr/>
@@ -27,9 +27,9 @@
 ## Languages
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Bash](https://skillicons.dev/icons?i=bash)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![OCaml](https://skillicons.dev/icons?i=ocaml)
 ![HTML5](https://skillicons.dev/icons?i=html)
