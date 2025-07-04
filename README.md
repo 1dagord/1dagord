@@ -50,6 +50,8 @@
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Git](https://skillicons.dev/icons?i=git)
 
