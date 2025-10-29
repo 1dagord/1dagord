@@ -48,7 +48,7 @@
 ## Development Tools
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![VSCodium](https://skillicons.dev/icons?i=vscodium)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
